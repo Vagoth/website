@@ -99,6 +99,15 @@ a:hover {
   bottom: 300px;
 }
 
+.main-link {;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  position: absolute;
+  left: 1px;
+  top: 10px;
+}
+
+
 .mehdi{
   height: 180px;
 }
