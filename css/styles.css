@@ -28,7 +28,7 @@ h3 {
 }
 
 div {
-  background-color:white;
+  background-color: white;
 }
 
 p {
@@ -101,9 +101,9 @@ a:hover {
 
 
 .main-link {
+  position: absolute;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  position: absolute;
   left: 1px;
   top: 10px;
 }
