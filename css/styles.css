@@ -101,9 +101,9 @@ a:hover {
 
 
 .main-link {
-  text-decoration: underline;
   position: absolute;
   font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
   font-size: 20px;
   left: 1px;
   top: 10px;
