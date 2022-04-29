@@ -99,14 +99,25 @@ a:hover {
   bottom: 300px;
 }
 
-
 .main-link {
-  position: absolute;
   font-family: 'Montserrat', sans-serif;
-  text-decoration: underline;
-  font-size: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  position: absolute;
   left: 1px;
   top: 10px;
+  background-color: #E3FDFD;
+
+
+}
+.music-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  position: absolute;
+  left: 50px;
+  top: 10px;
+  background-color: #E3FDFD;
 }
 
 
