@@ -39,19 +39,6 @@ p {}
 }
 
 
-.main-link {
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  color: black;
-  font-size: 20px;
-  font-weight: bold;
-  position: absolute;
-  right: 10px;
-  top: 10px;
-
-}
-
-
 
 .guitar {
   position: absolute;
@@ -76,6 +63,19 @@ p {}
   width: 600px;
   top: 10px;
 }
+
+.music-link {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+
+}
+
 
 .middle-container {
   height: 200px;
